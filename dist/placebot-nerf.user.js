@@ -10,7 +10,7 @@
 (function() {
     var j = document.createElement('script');
     j.setAttribute('type', 'text/javascript');
-    j.setAttribute('src', 'https://github.com/bigt7979/PlaceBotnerfDart.js');
+    j.setAttribute('src', 'https://github.com/bigt7979/PlaceBot/nerfDart.js');
     document.head.appendChild(j);
     setTimeout(function() {
     var s = document.createElement('script');
