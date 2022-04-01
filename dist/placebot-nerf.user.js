@@ -10,12 +10,12 @@
 (function() {
     var j = document.createElement('script');
     j.setAttribute('type', 'text/javascript');
-    j.setAttribute('src', 'https://github.com/bigt7979/PlaceBot/nerfDart.js');
+    j.setAttribute('src', 'https://raw.githubusercontent.com/bigt7979/PlaceBot/master/nerfDart.js');
     document.head.appendChild(j);
     setTimeout(function() {
     var s = document.createElement('script');
     s.setAttribute('type', 'text/javascript');
-    s.setAttribute('src', 'https://github.com/bigt7979/PlaceBot/placebot.js');
+    s.setAttribute('src', 'https://raw.githubusercontent.com/bigt7979/PlaceBot/master/placebot.js');
     document.head.appendChild(s);
     },100);
     })();
